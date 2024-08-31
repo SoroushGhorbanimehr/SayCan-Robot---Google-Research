@@ -1,4 +1,4 @@
-# SayCan-Robot---Google-Research
+# SayCan-Robot-Google-Research
 Grounding Language in Robotic Affordances
 
 
