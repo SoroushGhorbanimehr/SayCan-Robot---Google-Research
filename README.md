@@ -13,9 +13,13 @@ This project demonstrates how low-level skills can be combined with large langua
 This repository contains a self-contained implementation of SayCan for a table-top environment. Follow the instructions below to get started.
 
 ## Installation
-1- Clone the repository:
-** git clone https://github.com/SoroushGhorbanimehr/SayCan-Robot---Google-Research.git **
-** cd DIR (Will be updated) ** 
+
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/SoroushGhorbanimehr/SayCan-Robot---Google-Research.git
+    cd DIR (will be updated)
+    ```
+
 
 # Will be updated
 
